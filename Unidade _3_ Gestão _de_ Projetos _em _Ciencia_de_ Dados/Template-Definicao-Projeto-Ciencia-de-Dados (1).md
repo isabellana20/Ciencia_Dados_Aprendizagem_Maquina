@@ -5,7 +5,7 @@
 *Preenchido com base no TCC da Equipe MVC Finance (Isabella, Jhonathan e
 Kauane) — UDF, 2026*
 
-1\. Identificação do projeto
+1\. MVC Finance: Aplicativo Web de Gestão Financeira Pessoal
 
 | | |
 |------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -13,9 +13,9 @@ Kauane) — UDF, 2026*
 | **Curso / disciplina** | Ciência da Computação e Sistemas de Informação — Unidade III: Gestão de Projetos (Ciência de Dados) |
 | **Turma** | Não informado no TCC — preencher com a turma da disciplina. |
 | **Equipe** | Equipe MVC Finance |
-| **Integrantes e funções iniciais** | Isabella Ana Dutra de Sousa (matrícula 35719117); Jhonathan de Moura Santos (matrícula 32813589); Kauane Braga dos Santos Silva de Sousa (matrícula 36358959). O TCC não especifica a função de cada integrante (ex.: front-end, back-end, dados/IA, documentação) — recomenda-se definir na Seção 14. |
+| **Integrantes e funções iniciais** | Isabella Ana Dutra de Sousa (matrícula 35719117)dados/IA, documentação; Jhonathan de Moura Santos (matrícula 32813589)front-end, back-end ; Kauane Braga dos Santos Silva de Sousa (matrícula 36358959)dados/IA, documentação.  |
 | **Professor(a)** | Divergência encontrada no TCC: a capa e a folha de rosto indicam "Orientadora: Prof.ª Dra. Kerlla Luz" (citada 3 vezes), mas a seção de Agradecimentos cita "nosso orientador Wilson Amaral". A equipe deve confirmar qual é o nome correto antes de submeter este documento. |
-| **Data de elaboração** | Brasília, 2026 (data exata de elaboração deste documento não especificada — preencher ao entregar) |
+| **Data de elaboração** | Brasília, 2026 16/09/2026 |
 | **Versão do documento** | v1.0 — elaborada a partir do TCC MVC Finance (2026) |
 
 2\. Visão geral
@@ -321,8 +321,8 @@ anonimização e reidentificação ainda não foram tratados no TCC.
 
 | **Responsável** | **Validação / observação** | **Data** |
 |---|---|---|
-| Representante da equipe — Isabella Ana Dutra de Sousa, Kauane Braga dos Santos Silva de Sousa e Jhonathan de Moura Santos | a preencher pela equipe no momento da entrega | |
-| Professor(a) / orientador(a) — Gabriel | a preencher | |
+| Representante da equipe — Isabella Ana Dutra de Sousa, Kauane Braga dos Santos Silva de Sousa e Jhonathan de Moura Santos | a preencher pela equipe no momento da entrega |16/09/2026 |
+| Professor(a) / orientador(a) — Gabriel | |16/09/2026 |
 
 Ajustes solicitados após a apresentação inicial
 
