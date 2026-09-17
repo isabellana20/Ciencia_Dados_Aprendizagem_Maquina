@@ -10,14 +10,14 @@
 
 | Campo | Preenchimento |
 |---|---|
-| Título provisório do projeto | | 	MVC Finance: Aplicativo Web de Gestão Financeira Pessoal 
-| Curso / disciplina | | Curso / disciplina	Ciência da Computação e Sistemas de Informação — Unidade III: Gestão de Projetos (Ciência de Dados)
+| Título provisório do projeto |	MVC Finance: Aplicativo Web de Gestão Financeira Pessoal |  
+| Curso / disciplina |  Curso / disciplina	Ciência da Computação e Sistemas de Informação — Unidade III: Gestão de Projetos (Ciência de Dados)|
 | Turma | |
-| Equipe | | MVC Finance
-| Integrantes e funções iniciais | |Isabella Ana Dutra de Sousa (matrícula 35719117); Jhonathan de Moura Santos (matrícula 32813589); Kauane Braga dos Santos Silva de Sousa (matrícula 36358959). - funções isabella e kauane documenteção , dados/IA, Jhonathan .: front-end, back-end,
-| Professor(a) | |  Gabriel Alves
-| Data de elaboração | | 16/09/2026
-| Versão do documento | | Versão do documento	v1.0 — elaborada a partir do TCC MVC Finance (2026)
+| Equipe | MVC Finance|
+| Integrantes e funções iniciais | |Isabella Ana Dutra de Sousa (matrícula 35719117); Jhonathan de Moura Santos (matrícula 32813589); Kauane Braga dos Santos Silva de Sousa (matrícula 36358959). - funções isabella e kauane documenteção , dados/IA, Jhonathan .: front-end, back-end|
+| Professor(a) | Gabriel Alves|
+| Data de elaboração | 16/09/2026|
+| Versão do documento | Versão do documento	v1.0 — elaborada a partir do TCC MVC Finance (2026)|
 
 ## 2. Visão geral
 
@@ -63,12 +63,9 @@ Usuários brasileiros com dificuldades de controle financeiro (parte deles endiv
 
 | Evidência | Fonte | O que ela indica? | Confiabilidade / limitação |
 |---|---|---|---|
-| 1. | | | |
-Proporção de famílias com contas a vencer caiu de 77,0% para 76,7% (nov.→dez.)	CNC (2024) — Pesquisa de Endividamento e Inadimplência do Consumidor (PEIC)	O endividamento das famílias brasileiras permanece elevado apesar de leve melhora	Dado agregado nacional; não é segmentado pelo perfil específico dos usuários da plataforma
-
-| 2. | | | |Baixa adesão a ferramentas tradicionais e falta de educação financeira integrada	Banco Central do Brasil (2023) — Relatório de Economia Bancária; BCB (2013) — Caderno de Educação Financeira	Instrumentos de controle financeiro isolados têm pouco efeito sem letramento financeiro	Fonte institucional; não mede diretamente o comportamento dos futuros usuários do MVC Finance
-
-| 3. | | | |Análise comparativa entre MVC Finance, Mobills, Money Lover e Gestor de Despesas	Google Play Store / análise dos autores do TCC (2026)	Concorrentes oferecem educação financeira introdutória (artigos/dicas) e recursos avançados só em planos pagos	Análise qualitativa feita pelos próprios autores, sem dados quantitativos de uso real
+| 1. |Proporção de famílias com contas a vencer caiu de 77,0% para 76,7% (nov.→dez.) |	CNC (2024) | Pesquisa de Endividamento e Inadimplência do Consumidor (PEIC)	O endividamento das famílias brasileiras permanece elevado apesar de leve melhora	Dado agregado nacional; não é segmentado pelo perfil específico dos usuários da plataforma|
+| 2. | Baixa adesão a ferramentas tradicionais e falta de educação financeira integrada	Banco Central do Brasil (2023) — Relatório de Economia Bancária| BCB (2013)| Caderno de Educação Financeira	Instrumentos de controle financeiro isolados têm pouco efeito sem letramento financeiro	Fonte institucional; não mede diretamente o comportamento dos futuros usuários do MVC Finance|
+| 3. |Análise comparativa entre MVC Finance, Mobills, Money Lover e Gestor de Despesas	Google Play Store / análise dos autores do TCC (2026) |Concorrentes oferecem educação financeira introdutória (artigos/dicas) |  recursos avançados só em planos pagos	Análise qualitativa feita pelos próprios autores, sem dados quantitativos de uso real|
 
 ## 4. Público-alvo e partes interessadas
 
@@ -76,25 +73,19 @@ Proporção de famílias com contas a vencer caiu de 77,0% para 76,7% (nov.→de
 
 | Aspecto | Descrição |
 |---|---|
-| Quem são os usuários ou beneficiários? | |Pessoas físicas no Brasil que buscam controlar receitas e despesas pessoais, incluindo usuários endividados ou com baixo letramento financeiro.
-
-| Quais necessidades possuem? | |Registrar transações de forma simples, entender o próprio padrão de gastos, receber orientação/educação financeira e obter recomendações personalizadas.
-
-| Como são afetados pelo problema? | |Como são afetados pelo problema?	Dependem de planilhas ou apps limitados a registro retrospectivo, com inserção manual exaustiva e sem apoio educativo integrado, o que dificulta a mudança de comportamento financeiro.
-
-| Que decisão ou ação poderão tomar com os resultados? | |Ajustar hábitos de consumo por categoria, decidir migrar do Plano Gratuito para o Plano Premium (relatórios de IA ilimitados) e engajar-se no módulo educacional para melhorar o letramento financeiro
+| Quem são os usuários ou beneficiários? | Pessoas físicas no Brasil que buscam controlar receitas e despesas pessoais, incluindo usuários endividados ou com baixo letramento financeiro.|
+| Quais necessidades possuem? |Registrar transações de forma simples, entender o próprio padrão de gastos, receber orientação/educação financeira e obter recomendações personalizadas. |
+| Como são afetados pelo problema? | Como são afetados pelo problema?	Dependem de planilhas ou apps limitados a registro retrospectivo, com inserção manual exaustiva e sem apoio educativo integrado, o que dificulta a mudança de comportamento financeiro|
+| Que decisão ou ação poderão tomar com os resultados? | Ajustar hábitos de consumo por categoria, decidir migrar do Plano Gratuito para o Plano Premium (relatórios de IA ilimitados) e engajar-se no módulo educacional para melhorar o letramento financeiro |
 
 ### 4.2 Partes interessadas
 
 | Parte interessada | Interesse no projeto | Influência | Forma de envolvimento |
 |---|---|---|---|
-| | | Baixa / Média / Alta | | Usuários finais (Plano Gratuito e Plano Premium)	Controlar finanças pessoais e obter insights sobre os próprios gastos	Alta	Uso diário da plataforma; geração de dados de transações; feedback/avaliações
-
-| | | Baixa / Média / Alta | | Equipe MVC Finance (Isabella, Jhonathan e Kauane)	Concluir o TCC e evoluir o produto	Alta	Desenvolvimento, modelagem de dados, documentação e apresentação
-
-| | | Baixa / Média / Alta | | Orientador(a) do TCC (nome a confirmar — ver Seção 1)	Avaliação acadêmica do projeto e da metodologia	Média	Orientação, validação de requisitos e correções
-
-| | | Baixa / Média / Alta | | OpenAI (provedora do modelo GPT-4o-mini)	Fornecer o serviço de geração dos relatórios de IA	Média	Integração via API paga por uso (dependência técnica externa)
+|suários finais (Plano Gratuito e Plano Premium)	Controlar finanças pessoais e obter insights sobre os próprios gastos	Alta	Uso diário da plataforma |geração de dados de transações |  Alta |  feedback/avaliações |
+| Equipe MVC Finance (Isabella, Jhonathan e Kauane)| | Alta | | 	Concluir o TCC e evoluir o produto	Alta	Desenvolvimento, modelagem de dados, documentação e apresentação
+| Orientador(a) do TCC (Gabriel Alves — ver Seção 1)| | Média   | Avaliação acadêmica do projeto e da metodologia	Média	Orientação, validação de requisitos e correções |
+|OpenAI (provedora do modelo GPT-4o-mini)	Fornecer o serviço de geração dos relatórios de IA |  Média|Integração via API paga por uso (dependência técnica externa)|
 
 
 ## 5. Objetivos do projeto
@@ -105,7 +96,7 @@ Escreva um objetivo que indique o que será analisado, para qual finalidade e em
 
 **Objetivo geral:**
 
-Desenvolver um sistema SaaS (MVC Finance) que utilize os dados financeiros informados pelos próprios usuários para gerar relatórios automatizados por Inteligência Artificial e apoiar o controle e a educação financeira pessoal por meio de uma interface intuitiva e didática.___
+Desenvolver um sistema SaaS (MVC Finance) que utilize os dados financeiros informados pelos próprios usuários para gerar relatórios automatizados por Inteligência Artificial e apoiar o controle e a educação financeira pessoal por meio de uma interface intuitiva e didática.
 
 ### 5.2 Objetivos específicos
 
@@ -113,13 +104,10 @@ Defina de três a cinco objetivos mensuráveis e compatíveis com o prazo do pro
 
 | Nº | Objetivo específico | Evidência de conclusão |
 |---:|---|---|
-| 1 | | | 1	Promover a educação financeira do usuário	Módulo educacional (cursos, módulos, lições e conquistas) implementado e disponível no catálogo de cursos
-
-| 2 | | | 	Integrar o módulo educacional ao acompanhamento financeiro, fomentando aprendizado contínuo	Progresso do usuário (UserLessonProgress) e XP/gamificação vinculados ao uso da plataforma
-
-| 3 | | | 3	Desenvolver uma arquitetura escalável e segura	Autenticação implementada, ,  e banco de dados PostgreSQL/Neon em produção
-
-| 4 | | | 4	Validar a viabilidade de um modelo de negócio freemium	Planos Gratuito e Premium implementados, com fluxo de upgrade e pagamento (Stripe) funcional
+| 1 | Promover a educação financeira do usuário	Módulo educacional (cursos, módulos, lições e conquistas) implementado |disponível no catálogo de cursos|
+| 2 |Integrar o módulo educacional ao acompanhamento financeiro, fomentando aprendizado contínuo	Progresso do usuário (UserLessonProgress)  |  XP/gamificação vinculados ao uso da plataforma |
+| 3 |Desenvolver uma arquitetura escalável e segura	Autenticação implementada |banco de dados PostgreSQL/Neon em produção|
+| 4 | alidar a viabilidade de um modelo de negócio freemium	Planos Gratuito e Premium implementados| fluxo de upgrade e pagamento (Stripe) funcional|
 
 | 5 | | |	Assegurar a segurança e a privacidade das informações financeiras dos usuários	Isolamento de dados por usuário (usuarioId) e verificação de plano Premium no servidor antes de qualquer chamada à API da OpenAI
 
