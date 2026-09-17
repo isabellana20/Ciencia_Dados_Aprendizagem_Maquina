@@ -5,10 +5,7 @@
 *Preenchido com base no TCC da Equipe MVC Finance (Isabella, Jhonathan e
 Kauane) — UDF, 2026*
 
-**⚠ Este documento foi preenchido a partir das informações contidas no
-TCC entregue pela equipe. Trechos marcados com ⚠ indicam pontos que a
-equipe precisa confirmar, decidir ou completar — não estavam explícitos
-(ou estavam contraditórios) no TCC.**
+
 
 1\. Identificação do projeto
 
@@ -273,11 +270,11 @@ equipe deve inserir prazos reais (⚠).*
 | **Etapa**                | **Atividades principais**                                                                                   | **Responsável(is)** | **Prazo**   | **Dependências**                                  |
 |--------------------------|-------------------------------------------------------------------------------------------------------------|---------------------|-------------|---------------------------------------------------|
 | 1\. Definição            | Levantamento de requisitos (RF01–RFxx), casos de uso e diagrama de classes                                  | Equipe MVC Finance  | ⚠ a definir | —                                                 |
-| 2\. Obtenção dos dados   | Implementação de cadastro/autenticação e registro de transações pelos usuários                              | Equipe MVC Finance  | ⚠ a definir | Depende do módulo de autenticação                 |
-| 3\. Preparação dos dados | Formatação das transações (DATA-VALOR-TIPO-CATEGORIA) para envio à API                                      | Equipe MVC Finance  | ⚠ a definir | Depende do modelo de dados (entidade Transaction) |
-| 4\. Análise / modelagem  | Integração com o GPT-4o-mini (OpenAI) para geração do relatório de IA (UC-17)                               | Equipe MVC Finance  | ⚠ a definir | Depende da configuração da OPENAI_API_KEY         |
-| 5\. Validação            | Testes do fluxo do relatório de IA (incluindo fluxo alternativo sem API key e verificação de plano Premium) | Equipe MVC Finance  | ⚠ a definir | Depende de ambiente de testes configurado         |
-| 6\. Comunicação          | Elaboração do TCC, protótipos de tela e defesa perante a banca examinadora                                  | Equipe MVC Finance  | ⚠ a definir | Depende da aprovação da orientação                |
+| 2\. Obtenção dos dados   | Implementação de cadastro/autenticação e registro de transações pelos usuários                              | Equipe MVC Finance  | a definir | Depende do módulo de autenticação                 |
+| 3\. Preparação dos dados | Formatação das transações (DATA-VALOR-TIPO-CATEGORIA) para envio à API                                      | Equipe MVC Finance  | a definir | Depende do modelo de dados (entidade Transaction) |
+| 4\. Análise / modelagem  | Integração com o GPT-4o-mini (OpenAI) para geração do relatório de IA (UC-17)                               | Equipe MVC Finance  |  a definir | Depende da configuração da OPENAI_API_KEY         |
+| 5\. Validação            | Testes do fluxo do relatório de IA (incluindo fluxo alternativo sem API key e verificação de plano Premium) | Equipe MVC Finance  |  a definir | Depende de ambiente de testes configurado         |
+| 6\. Comunicação          | Elaboração do TCC, protótipos de tela e defesa perante a banca examinadora                                  | Equipe MVC Finance  | ⚠a definir | Depende da aprovação da orientação                |
 
 13\. Riscos do projeto
 
@@ -296,7 +293,7 @@ entrega (⚠).*
 
 | **Integrante**                         | **Papel principal**                                          | **Responsabilidades** | **Apoio necessário** |
 |----------------------------------------|--------------------------------------------------------------|-----------------------|----------------------|
-| Isabella Ana Dutra de Sousa            | ⚠ a definir                                                  | ⚠ a definir           | ⚠ a definir          |
+| Isabella Ana Dutra de Sousa            |   Documentação (Casos de Uso / Dados e IA)                                                | ⚠ a definir           | ⚠ a definir          |
 | Jhonathan de Moura Santos              | ⚠ a definir                                                  | ⚠ a definir           | ⚠ a definir          |
 | Kauane Braga dos Santos Silva de Sousa | ⚠ a definir (autora identificada nos metadados do documento) | ⚠ a definir           | ⚠ a definir          |
 
