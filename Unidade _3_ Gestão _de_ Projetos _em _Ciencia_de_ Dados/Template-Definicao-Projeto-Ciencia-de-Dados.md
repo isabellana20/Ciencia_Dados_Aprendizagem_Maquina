@@ -210,11 +210,15 @@ Restrições conhecidas: prazo acadêmico do TCC; dependência de custo/disponib
 
 | Entregável | Descrição | Formato | Responsável | Critério de aceite |
 |---|---|---|---|---|
-| Base tratada | | | | |
-| Análise exploratória | | | | |
-| Visualizações / painel | | | | |
-| Relatório ou apresentação | | | | |
-| Outro | | | | |
+| Base tratada | | | | |Banco de dados relacional com as entidades User, Transaction, Course, Module, Lesson etc.	PostgreSQL (Neon) via Prisma ORM	Equipe MVC Finance	Modelo de dados implementado conforme o Diagrama de Classes do TCC
+
+| Análise exploratória |Extração e formatação das transações do mês em texto estruturado (DATA-VALOR-TIPO-CATEGORIA) | Texto estruturado enviado à API GPT-4o-mini| Equipe MVC Finance|Dados corretamente filtrados por usuário e mês, conforme RN-IA02 | 
+
+| Visualizações / painel |Dashboard financeiro com gráficos de evolução e filtro por mês | Interface web (React / Next.js)|Equipe MVC Finance | Dashboard exibindo indicadores consolidados e atualizados por mês|
+
+| Relatório ou apresentação |Dashboard financeiro com gráficos de evolução e filtro por mês |Interface web (React / Next.js) |Equipe MVC Finance | Dashboard exibindo indicadores consolidados e atualizados por mês|
+
+| Outro | TCC escrito (documento acadêmico completo)| PDF / Word|Equipe MVC Finance | Aprovação pela banca examinadora|
 
 ## 11. Critérios de sucesso
 
@@ -222,64 +226,69 @@ Defina como a equipe saberá se o projeto alcançou seus objetivos.
 
 | Critério | Indicador ou evidência | Meta | Forma de verificação |
 |---|---|---|---|
-| Relevância para o problema | | | |
-| Qualidade dos dados | | | |
-| Qualidade da análise | | | |
-| Utilidade para o público-alvo | | | |
-| Comunicação dos resultados | | | |
+| Relevância para o problema |Uso do relatório de IA pelos usuários do Plano Premium | Markdown, exibido em modal/dashboard|Adoção recorrente (mensal) do recurso |Registro de geração de relatórios no sistema
+
+| Qualidade dos dados |Consistência da categorização das transações registradas | Baixo índice de dados incompletos ou duplicados| Auditoria periódica do banco de dados|
+
+| Qualidade da análise |Coerência entre o relatório de IA e os dados reais do usuário | Relatório reflete corretamente resumo, tendências e recomendações| Validação manual comparando relatório gerado x dados brutos|
+
+| Utilidade para o público-alvo | Percepção de utilidade do relatório de IA e do módulo educacional| Feedback positivo dos usuários / avaliadores |Pesquisa de satisfação (não realizada no TCC) e avaliação da banca examinadora |
+
+| Comunicação dos resultados |Clareza do TCC, dos protótipos de tela e do dashboard | Aprovação na defesa do TCC| Avaliação da banca examinadora |
 
 ## 12. Plano inicial de trabalho
 
 | Etapa | Atividades principais | Responsável(is) | Prazo | Dependências |
 |---|---|---|---|---|
-| 1. Definição | | | | |
-| 2. Obtenção dos dados | | | | |
-| 3. Preparação dos dados | | | | |
-| 4. Análise / modelagem | | | | |
-| 5. Validação | | | | |
-| 6. Comunicação | | | | |
+| 1. Definição |Levantamento de requisitos (RF01–RFxx), casos de uso e diagrama de classes | Equipe MVC Finance| a definir|- |
+| 2. Obtenção dos dados |Implementação de cadastro/autenticação e registro de transações pelos usuários |Equipe MVC Finance | a definir| Depende do módulo de autenticação|
+| 3. Preparação dos dados |Formatação das transações (DATA-VALOR-TIPO-CATEGORIA) para envio à API | Equipe MVC Finance |  a definir| Depende do modelo de dados (entidade Transaction)|
+| 4. Análise / modelagem | Integração com o GPT-4o-mini (OpenAI) para geração do relatório de IA (UC-17)|Equipe MVC Finance | a definir |Depende da configuração da OPENAI_API_KEY  |
+| 5. Validação |Testes do fluxo do relatório de IA (incluindo fluxo alternativo sem API key e verificação de plano Premium) | Equipe MVC Finance| a definir| Depende de ambiente de testes configurado|
+| 6. Comunicação |Elaboração do TCC, protótipos de tela e defesa perante a banca examinadora |Equipe MVC Finance | a definir| Depende da aprovação da orientação|
 
 ## 13. Riscos do projeto
 
 | Risco | Probabilidade | Impacto | Estratégia de resposta | Responsável |
 |---|---|---|---|---|
-| | Baixa / Média / Alta | Baixo / Médio / Alto | | |
-| | Baixa / Média / Alta | Baixo / Médio / Alto | | |
-| | Baixa / Média / Alta | Baixo / Médio / Alto | | |
+| Indisponibilidade ou custo elevado da API OpenAI (GPT-4o-mini)|  Média  | Alto | Manter o fluxo alternativo já previsto no UC-17 para quando a OPENAI_API_KEY não estiver configurada; monitorar custo por chamada| Equipe MVC Finance|
+
+| Não conformidade com a LGPD no tratamento de dados financeiros sensíveis| Baixa  | Alto |Reforçar isolamento de dados por usuário, cr revisão da política de privacidade | Equipe MVC Finance|
+
+| Baixa adesão de usuários ao Plano Premium, comprometendo a validação do modelo freemium|  Média |  Médio |Ajustar o limite do Plano Gratuito (atualmente 10 operações/mês) e comunicar melhor o valor do relatório de IA | Equipe MVC Finance|
 
 ## 14. Organização da equipe
 
 | Integrante | Papel principal | Responsabilidades | Apoio necessário |
 |---|---|---|---|
-| | | | |
-| | | | |
-| | | | |
-| | | | |
+|Isabella Ana Dutra de Sousa |Documentação (Casos de Uso / Dados e IA) aspectos relacionados a dados e IA (fontes de dados, modelos utilizados, fluxo de dados)|Acesso aos requisitos do projeto e alinhamento com quem desenvolve a parte de dados/IA para documentar corretamente |Acesso aos requisitos do projeto e alinhamento com quem desenvolve a parte de dados/IA para documentar corretamente |
+
+| Jhonathan de Moura Santo| Desenvolvimento Front-end e Back-end|mplementar as telas e a lógica de interface (front-end); desenvolver a lógica de negócio, APIs e integrações no servidor (back-end) | Definição clara dos requisitos funcionais e acesso ao ambiente de desenvolvimento/infraestrutura |
+
+|Kauane Braga dos Santos Silva de Sousa | Documentação (Diagrama de Classes / Dados e IA)| Elaborar e manter o diagrama de classes do sistema; documentar aspectos de dados e IA relacionados à modelagem | Acesso ao modelo de dados e alinhamento com quem desenvolve back-end para manter o diagrama de classes atualizado|
+
 
 ## 15. Validação da definição do projeto
 
 Antes da entrega, confirme:
 
-- [ ] O problema é real, relevante e delimitado.
-- [ ] O público-alvo e as partes interessadas estão identificados.
-- [ ] O objetivo geral e os objetivos específicos são coerentes.
-- [ ] As perguntas de negócio orientam decisões concretas.
+- [ x] O problema é real, relevante e delimitado.
+- [ x] O público-alvo e as partes interessadas estão identificados.
+- [x ] O objetivo geral e os objetivos específicos são coerentes.
+- [x ] As perguntas de negócio orientam decisões concretas.
 - [ ] Há dados potencialmente disponíveis para responder às perguntas.
 - [ ] O escopo é compatível com o prazo e os recursos.
 - [ ] Os critérios de sucesso são mensuráveis.
 - [ ] Riscos, privacidade, ética e segurança foram considerados.
-- [ ] Funções e responsabilidades foram distribuídas.
+- [x ] Funções e responsabilidades foram distribuídas.
 
 ## 16. Aprovação e registro de ajustes
 
 | Responsável | Validação / observação | Data |
 |---|---|---|
-| Representante da equipe | | |
-| Professor(a) / orientador(a) | | |
+| Representante da equipe | Isabella Ana, Jhonathan Moura e Kauane Braga| |
+| Professor(a) / orientador(a) |Gabriel Alves |16/09/2026 |
 
 ### Ajustes solicitados após a apresentação inicial
 
-________________________________________________________________________________
-
-________________________________________________________________________________
-
+A preencher pela equipe após a apresentação/validação com o(a) professor(a) orientador(a
