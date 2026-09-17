@@ -108,9 +108,7 @@ Defina de três a cinco objetivos mensuráveis e compatíveis com o prazo do pro
 | 2 |Integrar o módulo educacional ao acompanhamento financeiro, fomentando aprendizado contínuo	Progresso do usuário (UserLessonProgress)  |  XP/gamificação vinculados ao uso da plataforma |
 | 3 |Desenvolver uma arquitetura escalável e segura	Autenticação implementada |banco de dados PostgreSQL/Neon em produção|
 | 4 | alidar a viabilidade de um modelo de negócio freemium	Planos Gratuito e Premium implementados| fluxo de upgrade e pagamento (Stripe) funcional|
-
-| 5 | | |	Assegurar a segurança e a privacidade das informações financeiras dos usuários	Isolamento de dados por usuário (usuarioId) e verificação de plano Premium no servidor antes de qualquer chamada à API da OpenAI
-
+| 5 |	Assegurar a segurança e a privacidade das informações financeiras dos usuários	Isolamento de dados por usuário (usuarioId) e verificação de plano Premium no servidor antes de qualquer chamada à API da OpenAI |
 ### 5.3 Verificação dos objetivos
 
 Marque após revisar:
