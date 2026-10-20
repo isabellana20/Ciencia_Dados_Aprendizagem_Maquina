@@ -1,0 +1,8 @@
+{
+  "acuracia_teste": 0.855,
+  "f1_macro_teste": 0.8552246731390243,
+  "acuracia_referencia": 0.13,
+  "C": 1,
+  "n_treino": 600,
+  "n_teste": 200
+}
