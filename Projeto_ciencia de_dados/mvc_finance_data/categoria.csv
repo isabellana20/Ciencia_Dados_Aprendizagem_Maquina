@@ -1,0 +1,29 @@
+idCategoria,categoria,idTipoOperacao
+1,Moradia,2
+2,Alimentação,2
+3,Supermercado,2
+4,Transporte,2
+5,Saúde,2
+6,Educação,2
+7,Lazer,2
+8,Restaurantes e delivery,2
+9,Vestuário,2
+10,Assinaturas,2
+11,Contas de consumo,2
+12,Dívidas e empréstimos,2
+13,Viagens,2
+14,Pets,2
+15,Outras despesas,2
+16,Salário,1
+17,Freelance,1
+18,Rendimentos,1
+19,Vendas,1
+20,Reembolso,1
+21,Presente,1
+22,Outros depósitos,1
+23,Poupança,3
+24,Tesouro Direto,3
+25,CDB,3
+26,Ações,3
+27,Fundos,3
+28,Criptomoedas,3

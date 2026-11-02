@@ -1,0 +1,401 @@
+uid,perfil,plano,cursos_concluidos,prob_saldo_negativo,curso_recomendado,alerta
+00ecfd09ec,Endividado,gratuito,1,0.11,Curso 2,False
+012409cfda,Poupador/investidor,gratuito,0,0.2,Curso 1,False
+01cf4db389,Lazer e crédito elevados,gratuito,1,0.1,Curso 2,False
+01cf56077d,Endividado,gratuito,1,0.02,Curso 2,False
+02040d88eb,Poupador/investidor,gratuito,0,0.93,Curso 1,True
+02b10b8635,Poupador/investidor,premium,0,0.01,Curso 3,False
+040d605563,Poupador/investidor,gratuito,0,0.01,Curso 1,False
+07051e8f58,Endividado,premium,1,0.16,Curso 2,False
+072766c1f2,Endividado,gratuito,0,0.36,Curso 1,False
+07316670a4,Poupador/investidor,gratuito,0,0.91,Curso 1,True
+07b56ec7a4,Lazer e crédito elevados,gratuito,0,0.05,Curso 1,False
+07ed62574d,Lazer e crédito elevados,gratuito,1,0.04,Curso 2,False
+082062399b,Endividado,premium,0,0.03,Curso 1,False
+08e1043616,Poupador/investidor,gratuito,0,0.03,Curso 1,False
+0b0e20ac07,Poupador/investidor,premium,1,0.28,Curso 3,False
+0b32563664,Lazer e crédito elevados,gratuito,0,0.04,Curso 1,False
+0bedfd9ff8,Poupador/investidor,gratuito,0,0.01,Curso 1,False
+0c7b7d63da,Poupador/investidor,gratuito,1,0.01,Curso 2,False
+0d42ba2046,Poupador/investidor,gratuito,0,0.31,Curso 1,False
+0dd578630b,Poupador/investidor,gratuito,0,0.05,Curso 1,False
+0df58e2e9a,Lazer e crédito elevados,gratuito,0,0.14,Curso 1,False
+0e6e2ecf04,Lazer e crédito elevados,gratuito,1,0.02,Curso 2,False
+0e80e9ed00,Lazer e crédito elevados,gratuito,0,0.11,Curso 1,False
+0f2f4b09d8,Poupador/investidor,gratuito,1,0.34,Curso 2,False
+0f4a04241a,Endividado,premium,0,0.05,Curso 1,False
+10133bc7e9,Poupador/investidor,gratuito,0,0.01,Curso 1,False
+103dde5e15,Lazer e crédito elevados,gratuito,0,0.02,Curso 1,False
+105910695b,Poupador/investidor,gratuito,0,0.69,Curso 1,True
+123d091751,Lazer e crédito elevados,premium,1,0.06,Curso 2,False
+131402069b,Poupador/investidor,gratuito,0,0.92,Curso 1,True
+142f7b2b3c,Lazer e crédito elevados,gratuito,0,0.38,Curso 1,False
+1448de9c56,Poupador/investidor,premium,1,0.07,Curso 3,False
+184c8dda2c,Endividado,gratuito,0,0.01,Curso 1,False
+189ce3fddd,Poupador/investidor,gratuito,1,0.87,Curso 2,True
+18a6871213,Poupador/investidor,gratuito,1,0.06,Curso 2,False
+190dbe636f,Lazer e crédito elevados,gratuito,0,0.12,Curso 1,False
+19b3ae5d9d,Lazer e crédito elevados,premium,0,0.11,Curso 1,False
+1a7bebe271,Lazer e crédito elevados,premium,1,0.46,Curso 2,False
+1ac11af50b,Poupador/investidor,gratuito,0,0.09,Curso 1,False
+1b9a818fc1,Lazer e crédito elevados,gratuito,1,0.26,Curso 2,False
+1be89bbfb0,Poupador/investidor,gratuito,1,0.01,Curso 2,False
+1c4b520231,Poupador/investidor,gratuito,0,0.65,Curso 1,True
+1d075c4d53,Lazer e crédito elevados,premium,0,0.2,Curso 1,False
+1d5727133c,Lazer e crédito elevados,premium,0,0.01,Curso 1,False
+1e3587c860,Poupador/investidor,gratuito,0,0.03,Curso 1,False
+1e933216ba,Poupador/investidor,gratuito,0,0.15,Curso 1,False
+1f14aed171,Poupador/investidor,gratuito,0,0.67,Curso 1,True
+201ae4af1d,Poupador/investidor,premium,0,0.01,Curso 3,False
+2115120cf0,Endividado,gratuito,0,0.04,Curso 1,False
+21ed9a2b9b,Poupador/investidor,gratuito,0,0.01,Curso 1,False
+2210898f86,Poupador/investidor,gratuito,1,0.01,Curso 2,False
+225b2403d7,Lazer e crédito elevados,gratuito,0,0.04,Curso 1,False
+2355bf48c9,Poupador/investidor,gratuito,0,0.05,Curso 1,False
+235caa9e88,Poupador/investidor,gratuito,0,0.03,Curso 1,False
+238f1ebe24,Poupador/investidor,gratuito,1,0.02,Curso 2,False
+23d2024ed6,Poupador/investidor,premium,1,0.74,Curso 3,True
+24c3c7239d,Poupador/investidor,premium,1,0.13,Curso 3,False
+250ce6ebb1,Lazer e crédito elevados,gratuito,1,0.03,Curso 2,False
+252530b985,Endividado,gratuito,0,0.6,Curso 1,True
+2868a2e905,Poupador/investidor,gratuito,3,0.03,Todos os cursos liberados já foram concluídos,False
+29a3768dca,Lazer e crédito elevados,premium,0,0.91,Curso 1,True
+29f81dc3be,Endividado,premium,0,0.46,Curso 1,False
+2a24027fa0,Poupador/investidor,gratuito,0,0.46,Curso 1,False
+2b3e3446b5,Poupador/investidor,gratuito,1,0.19,Curso 2,False
+2be84eebbc,Poupador/investidor,gratuito,0,0.76,Curso 1,True
+2c5705c679,Poupador/investidor,gratuito,0,0.04,Curso 1,False
+2d12a43485,Lazer e crédito elevados,gratuito,0,0.01,Curso 1,False
+2e4caf9193,Poupador/investidor,gratuito,4,0.02,Todos os cursos liberados já foram concluídos,False
+2e81351086,Lazer e crédito elevados,gratuito,2,0.04,Todos os cursos liberados já foram concluídos,False
+2ebf026ba7,Lazer e crédito elevados,premium,2,0.03,Curso 3,False
+2f26270e04,Poupador/investidor,gratuito,0,0.01,Curso 1,False
+2fc7d6000e,Lazer e crédito elevados,premium,0,0.34,Curso 1,False
+2fd6ce2b1c,Poupador/investidor,premium,0,0.05,Curso 3,False
+2ffb564198,Poupador/investidor,premium,0,0.43,Curso 3,False
+30917bf6fd,Poupador/investidor,gratuito,0,0.84,Curso 1,True
+313967a7cd,Poupador/investidor,gratuito,0,0.79,Curso 1,True
+31d36d2191,Lazer e crédito elevados,gratuito,1,0.07,Curso 2,False
+3260f8e362,Poupador/investidor,premium,0,0.37,Curso 3,False
+3273391943,Lazer e crédito elevados,premium,0,0.02,Curso 1,False
+327cfeee65,Poupador/investidor,gratuito,0,0.03,Curso 1,False
+328c5c6856,Endividado,gratuito,0,0.33,Curso 1,False
+3315c02b24,Poupador/investidor,gratuito,1,0.06,Curso 2,False
+3361202dca,Poupador/investidor,gratuito,1,0.09,Curso 2,False
+33dccfd32f,Lazer e crédito elevados,premium,0,0.16,Curso 1,False
+33f022a9ab,Endividado,premium,2,0.52,Curso 3,True
+34c5ba3ed2,Poupador/investidor,gratuito,1,0.04,Curso 2,False
+3535ca9758,Poupador/investidor,gratuito,1,0.02,Curso 2,False
+355b086633,Poupador/investidor,premium,1,0.29,Curso 3,False
+35f3726af3,Endividado,premium,0,0.02,Curso 1,False
+3647931dd8,Poupador/investidor,gratuito,0,0.03,Curso 1,False
+37e1b66574,Poupador/investidor,gratuito,1,0.03,Curso 2,False
+387a3f6a67,Poupador/investidor,gratuito,0,0.03,Curso 1,False
+38c1fc882b,Poupador/investidor,gratuito,2,0.45,Todos os cursos liberados já foram concluídos,False
+38c80ed514,Poupador/investidor,gratuito,1,0.03,Curso 2,False
+38d229586f,Lazer e crédito elevados,gratuito,0,0.0,Curso 1,False
+398fe583cb,Poupador/investidor,gratuito,1,0.4,Curso 2,False
+3b7954ffa5,Poupador/investidor,gratuito,0,0.0,Curso 1,False
+3c3f0cb721,Endividado,gratuito,0,0.01,Curso 1,False
+3c4a0265f3,Poupador/investidor,gratuito,0,0.07,Curso 1,False
+3d393acc6c,Poupador/investidor,gratuito,0,0.34,Curso 1,False
+40e7d03297,Poupador/investidor,gratuito,0,0.2,Curso 1,False
+410289e672,Lazer e crédito elevados,gratuito,0,0.05,Curso 1,False
+410985ac4a,Poupador/investidor,gratuito,0,0.15,Curso 1,False
+412a49a814,Lazer e crédito elevados,gratuito,0,0.0,Curso 1,False
+4178b135b5,Poupador/investidor,gratuito,1,0.41,Curso 2,False
+42d2d06321,Poupador/investidor,gratuito,1,0.0,Curso 2,False
+42d88dcb39,Poupador/investidor,premium,1,0.04,Curso 3,False
+4432a88609,Poupador/investidor,premium,1,0.32,Curso 3,False
+446e349285,Poupador/investidor,gratuito,1,0.07,Curso 2,False
+44ebdb118a,Lazer e crédito elevados,gratuito,0,0.13,Curso 1,False
+4507859823,Poupador/investidor,gratuito,2,0.4,Todos os cursos liberados já foram concluídos,False
+45c4cdb4dd,Lazer e crédito elevados,gratuito,0,0.06,Curso 1,False
+4639eac757,Endividado,gratuito,0,0.63,Curso 1,True
+4689736d2c,Lazer e crédito elevados,gratuito,0,0.48,Curso 1,False
+47bb9e036e,Lazer e crédito elevados,gratuito,1,0.02,Curso 2,False
+499d3d2875,Poupador/investidor,gratuito,0,0.05,Curso 1,False
+49f4560c27,Poupador/investidor,premium,0,0.54,Curso 3,True
+4a3f5b1565,Endividado,premium,0,0.06,Curso 1,False
+4a4626410c,Lazer e crédito elevados,premium,0,0.0,Curso 1,False
+4a9776f455,Poupador/investidor,premium,1,0.08,Curso 3,False
+4aa511e63a,Poupador/investidor,premium,0,0.23,Curso 3,False
+4c5be7656f,Poupador/investidor,gratuito,0,0.52,Curso 1,True
+4cde44915f,Poupador/investidor,premium,0,0.06,Curso 3,False
+4d21b9ec92,Endividado,gratuito,1,0.47,Curso 2,False
+4daf1a79c6,Lazer e crédito elevados,gratuito,0,0.45,Curso 1,False
+4e6ffa888f,Lazer e crédito elevados,gratuito,0,0.1,Curso 1,False
+4f3f6c3635,Lazer e crédito elevados,gratuito,0,0.42,Curso 1,False
+4f51770ce3,Poupador/investidor,premium,0,0.4,Curso 3,False
+4f7bc20ea3,Poupador/investidor,gratuito,0,0.02,Curso 1,False
+50a025b7c6,Lazer e crédito elevados,gratuito,0,0.02,Curso 1,False
+50c6880e2e,Poupador/investidor,gratuito,0,0.12,Curso 1,False
+51c6d78cac,Poupador/investidor,premium,0,0.04,Curso 3,False
+52073610cb,Poupador/investidor,gratuito,0,0.01,Curso 1,False
+52a84fed70,Poupador/investidor,gratuito,0,0.08,Curso 1,False
+533ce3886a,Lazer e crédito elevados,gratuito,0,0.35,Curso 1,False
+54196a5821,Poupador/investidor,gratuito,0,0.0,Curso 1,False
+54d6e1b773,Endividado,gratuito,0,0.02,Curso 1,False
+5504dbb2b3,Lazer e crédito elevados,gratuito,0,0.24,Curso 1,False
+552df6c0e7,Poupador/investidor,gratuito,2,0.02,Todos os cursos liberados já foram concluídos,False
+5564430d4d,Endividado,gratuito,0,0.86,Curso 1,True
+55655c7059,Poupador/investidor,premium,0,0.63,Curso 3,True
+5575a61628,Lazer e crédito elevados,gratuito,0,0.05,Curso 1,False
+56279e4d5b,Poupador/investidor,premium,0,0.05,Curso 3,False
+564fd41ccd,Lazer e crédito elevados,gratuito,0,0.02,Curso 1,False
+56a91f34ef,Poupador/investidor,premium,1,0.01,Curso 3,False
+5791d4959d,Poupador/investidor,gratuito,1,0.01,Curso 2,False
+58ba21c191,Lazer e crédito elevados,gratuito,0,0.02,Curso 1,False
+596b520837,Lazer e crédito elevados,gratuito,2,0.06,Todos os cursos liberados já foram concluídos,False
+5992759789,Poupador/investidor,premium,0,0.02,Curso 3,False
+59d8107e18,Poupador/investidor,gratuito,0,0.03,Curso 1,False
+5b1378065d,Poupador/investidor,gratuito,1,0.02,Curso 2,False
+5b523800b8,Poupador/investidor,gratuito,0,0.88,Curso 1,True
+5bc6cacce6,Poupador/investidor,gratuito,0,0.07,Curso 1,False
+5c80dcb7dd,Poupador/investidor,gratuito,0,0.44,Curso 1,False
+5c91768505,Poupador/investidor,premium,2,0.02,Curso 3,False
+5d218e18ca,Poupador/investidor,gratuito,0,0.07,Curso 1,False
+5d531dd512,Poupador/investidor,gratuito,0,0.66,Curso 1,True
+5d635d8916,Endividado,premium,0,0.01,Curso 1,False
+5db29fa532,Poupador/investidor,gratuito,1,0.0,Curso 2,False
+5ec9c57eb1,Poupador/investidor,premium,1,0.08,Curso 3,False
+6039baeb16,Poupador/investidor,premium,1,0.15,Curso 3,False
+6049ea267a,Poupador/investidor,premium,1,0.31,Curso 3,False
+60840f187f,Poupador/investidor,gratuito,0,0.11,Curso 1,False
+61131b3610,Poupador/investidor,gratuito,0,0.03,Curso 1,False
+62d1d45b14,Lazer e crédito elevados,gratuito,0,0.05,Curso 1,False
+634b9e3863,Poupador/investidor,gratuito,0,0.0,Curso 1,False
+6354d7a159,Poupador/investidor,gratuito,0,0.8,Curso 1,True
+6511067081,Lazer e crédito elevados,gratuito,0,0.07,Curso 1,False
+656a0c14a3,Poupador/investidor,premium,0,0.01,Curso 3,False
+660c9648d3,Lazer e crédito elevados,gratuito,0,0.01,Curso 1,False
+66f2c6e853,Poupador/investidor,gratuito,0,0.01,Curso 1,False
+6744746bfa,Lazer e crédito elevados,premium,0,0.01,Curso 1,False
+67c320a06c,Poupador/investidor,premium,1,0.01,Curso 3,False
+6850f8f44a,Poupador/investidor,premium,1,0.3,Curso 3,False
+69383c2959,Poupador/investidor,gratuito,0,0.69,Curso 1,True
+6a14ba4fe7,Poupador/investidor,gratuito,0,0.02,Curso 1,False
+6ab0dbc3cb,Poupador/investidor,premium,0,0.1,Curso 3,False
+6b942dd444,Lazer e crédito elevados,gratuito,0,0.1,Curso 1,False
+6be86e33f1,Poupador/investidor,premium,0,0.19,Curso 3,False
+6c41f7a3f4,Endividado,premium,0,0.51,Curso 1,True
+6d35197f0d,Poupador/investidor,gratuito,3,0.01,Todos os cursos liberados já foram concluídos,False
+6ee4314b78,Lazer e crédito elevados,premium,0,0.05,Curso 1,False
+6efb095886,Poupador/investidor,gratuito,1,0.01,Curso 2,False
+6f690c0334,Lazer e crédito elevados,gratuito,0,0.02,Curso 1,False
+6f9eec041b,Lazer e crédito elevados,premium,0,0.49,Curso 1,False
+6ff9fcf228,Endividado,gratuito,0,0.11,Curso 1,False
+709778cd7e,Lazer e crédito elevados,gratuito,0,0.92,Curso 1,True
+7110ca2b59,Poupador/investidor,gratuito,2,0.11,Todos os cursos liberados já foram concluídos,False
+71878b67c3,Lazer e crédito elevados,premium,1,0.02,Curso 2,False
+722464c166,Poupador/investidor,gratuito,0,0.46,Curso 1,False
+724401dab7,Poupador/investidor,gratuito,1,0.05,Curso 2,False
+72642ea2d9,Poupador/investidor,gratuito,1,0.35,Curso 2,False
+73a0f50d61,Poupador/investidor,gratuito,0,0.5,Curso 1,True
+73be1a1464,Endividado,gratuito,0,0.2,Curso 1,False
+752b67e5a5,Lazer e crédito elevados,gratuito,0,0.43,Curso 1,False
+7590747a7c,Lazer e crédito elevados,gratuito,0,0.1,Curso 1,False
+75c175f853,Poupador/investidor,premium,0,0.01,Curso 3,False
+7641bd1317,Poupador/investidor,gratuito,0,0.01,Curso 1,False
+7658b9354a,Endividado,gratuito,0,0.06,Curso 1,False
+7679f08598,Poupador/investidor,gratuito,0,0.5,Curso 1,True
+770ab9f690,Poupador/investidor,gratuito,0,0.01,Curso 1,False
+77c5a802c9,Lazer e crédito elevados,gratuito,0,0.29,Curso 1,False
+782e60fa29,Poupador/investidor,premium,0,0.02,Curso 3,False
+78ad9f604a,Poupador/investidor,gratuito,1,0.13,Curso 2,False
+78d1244ece,Poupador/investidor,gratuito,0,0.15,Curso 1,False
+792f7f9b8f,Endividado,gratuito,0,0.15,Curso 1,False
+7baa6fb389,Endividado,gratuito,0,0.03,Curso 1,False
+7c5446bc72,Poupador/investidor,gratuito,2,0.03,Todos os cursos liberados já foram concluídos,False
+7d84498f97,Poupador/investidor,gratuito,0,0.01,Curso 1,False
+7e2dcaa299,Poupador/investidor,premium,0,0.03,Curso 3,False
+7e8e769636,Poupador/investidor,premium,0,0.09,Curso 3,False
+7ef7e8ab48,Poupador/investidor,premium,0,0.83,Curso 3,True
+7efcb9fa45,Lazer e crédito elevados,gratuito,1,0.68,Curso 2,True
+8159362b91,Poupador/investidor,premium,0,0.1,Curso 3,False
+815e429003,Poupador/investidor,gratuito,1,0.01,Curso 2,False
+8160f8a0cb,Poupador/investidor,premium,0,0.03,Curso 3,False
+816a0068a8,Poupador/investidor,premium,0,0.1,Curso 3,False
+81c6b44489,Poupador/investidor,gratuito,0,0.01,Curso 1,False
+82126a801c,Poupador/investidor,premium,0,0.11,Curso 3,False
+85b2368eda,Poupador/investidor,gratuito,2,0.35,Todos os cursos liberados já foram concluídos,False
+85ba86b295,Poupador/investidor,gratuito,2,0.01,Todos os cursos liberados já foram concluídos,False
+862f9f199f,Poupador/investidor,gratuito,2,0.88,Todos os cursos liberados já foram concluídos,True
+864c5e240c,Lazer e crédito elevados,gratuito,1,0.71,Curso 2,True
+87454692b4,Poupador/investidor,gratuito,0,0.0,Curso 1,False
+88d2fafe84,Endividado,gratuito,0,0.33,Curso 1,False
+89731c50e9,Lazer e crédito elevados,premium,0,0.0,Curso 1,False
+89ae978b3e,Lazer e crédito elevados,gratuito,0,0.04,Curso 1,False
+8a1d4c4ba2,Lazer e crédito elevados,gratuito,0,0.27,Curso 1,False
+8a292cc898,Lazer e crédito elevados,gratuito,0,0.01,Curso 1,False
+8a5e3a1b72,Poupador/investidor,gratuito,1,0.95,Curso 2,True
+8ad756054a,Lazer e crédito elevados,premium,0,0.41,Curso 1,False
+8bd69215e4,Poupador/investidor,gratuito,0,0.39,Curso 1,False
+8c31ab6380,Poupador/investidor,gratuito,0,0.12,Curso 1,False
+8c5a2ebbad,Poupador/investidor,gratuito,1,0.07,Curso 2,False
+8e38f23cff,Lazer e crédito elevados,gratuito,0,0.91,Curso 1,True
+8f5d529ddd,Lazer e crédito elevados,premium,0,0.01,Curso 1,False
+92f4cef277,Poupador/investidor,gratuito,0,0.05,Curso 1,False
+93ba841bd1,Poupador/investidor,gratuito,0,0.0,Curso 1,False
+93e6ff9fa9,Poupador/investidor,gratuito,1,0.02,Curso 2,False
+957dcd685e,Lazer e crédito elevados,gratuito,0,0.01,Curso 1,False
+964284cd9a,Poupador/investidor,premium,0,0.89,Curso 3,True
+9719fd9557,Lazer e crédito elevados,gratuito,0,0.15,Curso 1,False
+975f01d399,Endividado,gratuito,0,0.27,Curso 1,False
+9962014655,Poupador/investidor,premium,2,0.02,Curso 3,False
+99c99f2e08,Poupador/investidor,premium,3,0.02,Curso 4,False
+9aec00958a,Lazer e crédito elevados,premium,0,0.11,Curso 1,False
+9c2d71a085,Poupador/investidor,gratuito,3,0.05,Todos os cursos liberados já foram concluídos,False
+9c3c8aa4e2,Lazer e crédito elevados,gratuito,0,0.44,Curso 1,False
+9dde99984d,Endividado,gratuito,1,0.34,Curso 2,False
+9f6e63823e,Poupador/investidor,gratuito,1,0.08,Curso 2,False
+9fc6bd3275,Lazer e crédito elevados,gratuito,0,0.06,Curso 1,False
+9fff32c0fd,Poupador/investidor,gratuito,0,0.06,Curso 1,False
+a019fc5f2f,Endividado,premium,0,0.05,Curso 1,False
+a0e417966d,Poupador/investidor,premium,0,0.05,Curso 3,False
+a1ed752b7c,Lazer e crédito elevados,gratuito,0,0.69,Curso 1,True
+a3fe4d2f85,Poupador/investidor,premium,0,0.01,Curso 3,False
+a404620fb1,Lazer e crédito elevados,premium,0,0.01,Curso 1,False
+a51865a581,Endividado,gratuito,0,0.06,Curso 1,False
+a5aa8d9eef,Poupador/investidor,gratuito,2,0.3,Todos os cursos liberados já foram concluídos,False
+a64b915754,Lazer e crédito elevados,gratuito,0,0.37,Curso 1,False
+a6c6894d4c,Poupador/investidor,premium,0,0.4,Curso 3,False
+a73ead6376,Poupador/investidor,gratuito,1,0.01,Curso 2,False
+a7920eb08e,Poupador/investidor,gratuito,0,0.81,Curso 1,True
+a98d8b223e,Poupador/investidor,gratuito,0,0.08,Curso 1,False
+aa3526c8f2,Poupador/investidor,premium,3,0.03,Curso 4,False
+aae7e9c011,Endividado,gratuito,0,0.01,Curso 1,False
+ab16961bd5,Lazer e crédito elevados,gratuito,0,0.47,Curso 1,False
+ab5c043c15,Poupador/investidor,gratuito,0,0.88,Curso 1,True
+aba790f0ce,Poupador/investidor,premium,0,0.01,Curso 3,False
+abf43f8cf9,Poupador/investidor,gratuito,0,0.58,Curso 1,True
+ac12e2142c,Poupador/investidor,gratuito,1,0.15,Curso 2,False
+ac5e768f02,Poupador/investidor,gratuito,0,0.28,Curso 1,False
+ada1b6aba0,Lazer e crédito elevados,gratuito,1,0.24,Curso 2,False
+ae0f052af1,Endividado,gratuito,0,0.02,Curso 1,False
+aff1098262,Poupador/investidor,gratuito,1,0.48,Curso 2,False
+b06ef2aca4,Lazer e crédito elevados,premium,0,0.94,Curso 1,True
+b06f611f15,Poupador/investidor,gratuito,2,0.09,Todos os cursos liberados já foram concluídos,False
+b10b58385b,Lazer e crédito elevados,gratuito,1,0.57,Curso 2,True
+b14b19fc76,Poupador/investidor,gratuito,0,0.01,Curso 1,False
+b18c8b9a7b,Endividado,premium,0,0.33,Curso 1,False
+b1eafc0186,Poupador/investidor,premium,1,0.65,Curso 3,True
+b23e3b6a1e,Endividado,premium,0,0.01,Curso 1,False
+b3dcfa219e,Lazer e crédito elevados,gratuito,1,0.01,Curso 2,False
+b4089f5fce,Lazer e crédito elevados,premium,0,0.03,Curso 1,False
+b4b887a4e1,Poupador/investidor,gratuito,0,0.41,Curso 1,False
+b4caab61a2,Endividado,gratuito,0,0.03,Curso 1,False
+b4d596d3da,Lazer e crédito elevados,gratuito,0,0.66,Curso 1,True
+b6b37f280b,Poupador/investidor,gratuito,2,0.0,Todos os cursos liberados já foram concluídos,False
+b6e54761d5,Lazer e crédito elevados,gratuito,0,0.8,Curso 1,True
+b6e6e1a18c,Endividado,gratuito,0,0.01,Curso 1,False
+b6fa11b14e,Lazer e crédito elevados,gratuito,0,0.04,Curso 1,False
+baae6ad531,Poupador/investidor,gratuito,0,0.94,Curso 1,True
+bb1d2ab41b,Poupador/investidor,gratuito,0,0.13,Curso 1,False
+bb4e3b3545,Poupador/investidor,premium,1,0.02,Curso 3,False
+bbedaffdcc,Poupador/investidor,gratuito,0,0.03,Curso 1,False
+bcceeae95c,Poupador/investidor,gratuito,1,0.1,Curso 2,False
+be10aa1243,Poupador/investidor,gratuito,2,0.08,Todos os cursos liberados já foram concluídos,False
+bebbd07229,Endividado,gratuito,1,0.86,Curso 2,True
+beeaf51848,Lazer e crédito elevados,premium,0,0.01,Curso 1,False
+bf24b46e06,Lazer e crédito elevados,gratuito,0,0.84,Curso 1,True
+bf287e9122,Poupador/investidor,premium,0,0.03,Curso 3,False
+bf59948004,Lazer e crédito elevados,premium,0,0.08,Curso 1,False
+bf9e0d28bf,Poupador/investidor,gratuito,1,0.06,Curso 2,False
+c0783f7c6f,Lazer e crédito elevados,gratuito,0,0.84,Curso 1,True
+c0a2ab85cf,Lazer e crédito elevados,gratuito,0,0.02,Curso 1,False
+c13057aebe,Poupador/investidor,premium,0,0.21,Curso 3,False
+c172c99c68,Lazer e crédito elevados,gratuito,0,0.84,Curso 1,True
+c1881913c5,Poupador/investidor,gratuito,1,0.03,Curso 2,False
+c2c52c9355,Endividado,gratuito,3,0.08,Todos os cursos liberados já foram concluídos,False
+c34a55f67d,Poupador/investidor,gratuito,0,0.91,Curso 1,True
+c45820c83a,Lazer e crédito elevados,premium,0,0.02,Curso 1,False
+c493a487cb,Lazer e crédito elevados,gratuito,1,0.13,Curso 2,False
+c4a1d2ef02,Poupador/investidor,premium,0,0.01,Curso 3,False
+c4a8c6b6d1,Lazer e crédito elevados,premium,1,0.03,Curso 2,False
+c790107cb4,Lazer e crédito elevados,gratuito,1,0.84,Curso 2,True
+c7916544a2,Lazer e crédito elevados,premium,0,0.68,Curso 1,True
+c934f43879,Lazer e crédito elevados,gratuito,1,0.55,Curso 2,True
+c98473de6c,Poupador/investidor,premium,1,0.02,Curso 3,False
+c98ae768ba,Endividado,gratuito,0,0.01,Curso 1,False
+c9b46fa077,Poupador/investidor,gratuito,0,0.09,Curso 1,False
+ca96b72681,Poupador/investidor,premium,2,0.68,Curso 3,True
+cacd1a239f,Endividado,premium,0,0.58,Curso 1,True
+cb9933b8cf,Poupador/investidor,premium,0,0.01,Curso 3,False
+cba3aeddb8,Poupador/investidor,gratuito,0,0.38,Curso 1,False
+cbbe33ab61,Lazer e crédito elevados,gratuito,0,0.66,Curso 1,True
+cc2eea8b70,Poupador/investidor,premium,1,0.63,Curso 3,True
+ccb7b9936c,Poupador/investidor,gratuito,0,0.4,Curso 1,False
+d0fcec7b6a,Poupador/investidor,gratuito,1,0.37,Curso 2,False
+d11eed851b,Poupador/investidor,gratuito,0,0.94,Curso 1,True
+d17cbeda96,Lazer e crédito elevados,gratuito,0,0.09,Curso 1,False
+d17fdabe49,Endividado,premium,1,0.41,Curso 2,False
+d195e3aacd,Poupador/investidor,gratuito,0,0.13,Curso 1,False
+d1a03aa04e,Lazer e crédito elevados,gratuito,0,0.44,Curso 1,False
+d29a69c804,Poupador/investidor,gratuito,0,0.02,Curso 1,False
+d474069218,Poupador/investidor,gratuito,1,0.11,Curso 2,False
+d48ae21af3,Poupador/investidor,premium,1,0.03,Curso 3,False
+d551b3077b,Lazer e crédito elevados,gratuito,0,0.07,Curso 1,False
+d5b4a03bdb,Poupador/investidor,gratuito,1,0.13,Curso 2,False
+d64c10230c,Poupador/investidor,gratuito,1,0.01,Curso 2,False
+d69dcd0f02,Lazer e crédito elevados,gratuito,0,0.03,Curso 1,False
+d6e2c90de3,Endividado,premium,0,0.04,Curso 1,False
+d785368eb9,Poupador/investidor,gratuito,1,0.13,Curso 2,False
+d7a5aaa1b3,Lazer e crédito elevados,gratuito,0,0.01,Curso 1,False
+d909550e90,Lazer e crédito elevados,gratuito,0,0.13,Curso 1,False
+da004d5713,Lazer e crédito elevados,premium,2,0.59,Curso 3,True
+dc3f2f1fe5,Lazer e crédito elevados,premium,0,0.97,Curso 1,True
+dc9d53780e,Endividado,gratuito,0,0.0,Curso 1,False
+dcdaef4e37,Lazer e crédito elevados,gratuito,0,0.08,Curso 1,False
+def978ca54,Lazer e crédito elevados,gratuito,1,0.03,Curso 2,False
+df5f766ca2,Poupador/investidor,gratuito,0,0.01,Curso 1,False
+e149c9288a,Endividado,gratuito,1,0.01,Curso 2,False
+e2aab29831,Endividado,gratuito,0,0.09,Curso 1,False
+e33e94c05e,Poupador/investidor,gratuito,1,0.17,Curso 2,False
+e4dead645b,Poupador/investidor,premium,2,0.02,Curso 3,False
+e5583c6247,Poupador/investidor,gratuito,2,0.4,Todos os cursos liberados já foram concluídos,False
+e6085db06b,Poupador/investidor,premium,0,0.02,Curso 3,False
+e63c4b519e,Poupador/investidor,premium,0,0.01,Curso 3,False
+e6d33df990,Poupador/investidor,premium,1,0.0,Curso 3,False
+e6e66b401c,Lazer e crédito elevados,gratuito,0,0.68,Curso 1,True
+e74545d8c3,Endividado,gratuito,0,0.01,Curso 1,False
+e7745e01af,Poupador/investidor,premium,2,0.39,Curso 3,False
+e81e5b59e1,Poupador/investidor,premium,0,0.76,Curso 3,True
+e91ce0b2d4,Poupador/investidor,premium,0,0.13,Curso 3,False
+ea7bfc0208,Endividado,gratuito,0,0.05,Curso 1,False
+eb668d2b22,Lazer e crédito elevados,gratuito,1,0.02,Curso 2,False
+ec0e475a7a,Endividado,premium,0,0.1,Curso 1,False
+ec408afb54,Poupador/investidor,premium,5,0.55,Curso 6,True
+ec8b52ef21,Poupador/investidor,premium,1,0.91,Curso 3,True
+eccf0aa230,Poupador/investidor,gratuito,2,0.02,Todos os cursos liberados já foram concluídos,False
+edd5461b02,Lazer e crédito elevados,gratuito,0,0.76,Curso 1,True
+edfe094bef,Lazer e crédito elevados,gratuito,1,0.23,Curso 2,False
+ef2cb4b714,Poupador/investidor,premium,2,0.46,Curso 3,False
+ef56c23207,Poupador/investidor,gratuito,0,0.09,Curso 1,False
+f0c791c55f,Poupador/investidor,gratuito,1,0.08,Curso 2,False
+f0dfaee144,Endividado,gratuito,0,0.03,Curso 1,False
+f3839fd6c2,Lazer e crédito elevados,premium,0,0.0,Curso 1,False
+f3e88aec15,Lazer e crédito elevados,premium,0,0.02,Curso 1,False
+f47dbeebdc,Poupador/investidor,premium,0,0.45,Curso 3,False
+f4d2f7a746,Poupador/investidor,gratuito,1,0.13,Curso 2,False
+f57f52e52a,Poupador/investidor,gratuito,0,0.91,Curso 1,True
+f5c5cbd434,Endividado,gratuito,1,0.31,Curso 2,False
+f68f84373c,Poupador/investidor,gratuito,0,0.01,Curso 1,False
+f73c9e371c,Poupador/investidor,gratuito,0,0.05,Curso 1,False
+f95241498a,Lazer e crédito elevados,gratuito,1,0.05,Curso 2,False
+f96599e7fd,Lazer e crédito elevados,premium,0,0.6,Curso 1,True
+fa1b65ed08,Endividado,gratuito,0,0.11,Curso 1,False
+fadf905ea1,Poupador/investidor,gratuito,0,0.07,Curso 1,False
+fba0e1e1c1,Poupador/investidor,premium,0,0.02,Curso 3,False
+fc29422550,Lazer e crédito elevados,gratuito,0,0.08,Curso 1,False
+fc7572b7b4,Lazer e crédito elevados,gratuito,0,0.06,Curso 1,False
+fcb8996512,Lazer e crédito elevados,premium,0,0.05,Curso 1,False
+fce5c8ebe1,Lazer e crédito elevados,premium,0,0.01,Curso 1,False
+fd6b8b3ddc,Lazer e crédito elevados,gratuito,1,0.58,Curso 2,True
+fdffaee500,Lazer e crédito elevados,gratuito,0,0.05,Curso 1,False
+fe9d02c622,Poupador/investidor,premium,1,0.14,Curso 3,False
+ff0027bd9e,Poupador/investidor,gratuito,0,0.72,Curso 1,True
+ff19cc82bb,Poupador/investidor,gratuito,0,0.06,Curso 1,False
+ff1f1de539,Poupador/investidor,premium,1,0.0,Curso 3,False
+ffa2ab7fc5,Endividado,gratuito,0,0.92,Curso 1,True
+ffd0923678,Poupador/investidor,gratuito,0,0.82,Curso 1,True
